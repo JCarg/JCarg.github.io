@@ -1,0 +1,8 @@
+﻿body {
+    background-image:url(https://static.pexels.com/photos/107956/pexels-photo-107956.jpeg);
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
