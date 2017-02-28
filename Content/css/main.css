@@ -20,7 +20,9 @@ padding-right: 15px;
     margin-right: auto;
     margin-left: auto;
 }
-
+img{
+    max-height: 390px;
+}
 /*Navbar CSS Start*/
 .navbar-nav.middle {
   float: none;
