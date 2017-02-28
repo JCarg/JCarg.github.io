@@ -36,7 +36,9 @@ padding-right: 15px;
     text-align: center;
     background-color: white;
 }
-
+img{
+    max-height:390px;
+}
 
 .col-md-4.codebutton{
     min-height:390px;
